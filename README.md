@@ -1,4 +1,4 @@
-# India-CPI-Inflation-Analysis-2013-2023-
+# India-CPI-Inflation-Analysis Case Study_2
 An Excel-basedanalysis of India's CPI (2013-2023), exploring inflation drivers, COVID-19 economic shocks, and global oil price correlations.
 
 ## 📌 Executive Summary
