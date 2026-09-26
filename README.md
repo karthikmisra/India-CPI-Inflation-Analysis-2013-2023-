@@ -1,11 +1,8 @@
 # India-CPI-Inflation-Analysis-2013-2023-
 An Excel-basedanalysis of India's CPI (2013-2023), exploring inflation drivers, COVID-19 economic shocks, and global oil price correlations.
-# India CPI Inflation Analysis (2013–2023)
 
 ## 📌 Executive Summary
 This project provides an end-to-end macroeconomic analysis of India's Consumer Price Index (CPI) across Rural and Urban sectors from 2013 to 2023. By leveraging advanced Excel techniques, this case study uncovers the core drivers of retail inflation, measures the economic shock of the COVID-19 pandemic, and quantifies the cascading effects of global crude oil price fluctuations on domestic household budgets.
-
----
 
 ## 🎯 Business Problem & Core Objectives
 The objective of this analysis is to decode complex economic indicators into actionable insights by solving six specific macroeconomic problem statements:
@@ -16,8 +13,6 @@ The objective of this analysis is to decode complex economic indicators into act
 5. **Global Crude Oil Impact:** Use internal transport indexes as a proxy to calculate the correlation between oil shocks and cascading service inflation.
 6. **Inflation Calculator Build:** Develop a dynamic, rolling calculator for both Monthly and Annual inflation rates.
 
----
-
 ## 🗂 Dataset Overview
 * **Data Source:** Ministry of Statistics and Programme Implementation (MoSPI) / Government of India CPI Data.
 * **Timeline:** January 2013 to May 2023.
@@ -25,8 +20,6 @@ The objective of this analysis is to decode complex economic indicators into act
 * **Key Dimensions:** 
   * 24 distinct sub-categories (e.g., Cereals, Spices, Clothing, Housing, Health, Transport).
   * Pre-aggregated macro-buckets (e.g., General Index, Food and Beverages, Miscellaneous).
-
----
 
 ## ⚙️ Technical Excel & Analytical Implementations
 Designed as a comprehensive showcase of foundational data analytics and spreadsheet modeling skills:
@@ -36,9 +29,8 @@ Designed as a comprehensive showcase of foundational data analytics and spreadsh
 * **Data Hygiene & Preprocessing:** Filtered and isolated specific 12-month trailing windows to prevent data leakage during Month-on-Month (MoM) evaluations.
 * **Visual Formatting:** Applied Top/Bottom conditional formatting rules and multi-color heat scales to instantly highlight peak volatility months and primary absolute contributors.
 
----
-
-## 📊 Strategic Findings & Analytical Breakdown
+ 
+ 📊 Strategic Findings & Analytical Breakdown
 
 ### 1. CPI Basket Weighting (May 2023)
 * **Food is the Primary Driver:** The broader Food category overwhelmingly dictates Indian inflation, contributing **51.73%** to the total index calculation. 
