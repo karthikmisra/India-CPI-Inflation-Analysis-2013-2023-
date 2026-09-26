@@ -1,5 +1,5 @@
 # India-CPI-Inflation-Analysis Case Study_2
-An Excel-basedanalysis of India's CPI (2013-2023), exploring inflation drivers, COVID-19 economic shocks, and global oil price correlations.
+An Excel-based analysis of India's CPI (2013-2023), exploring inflation drivers, COVID-19 economic shocks, and global oil price correlations.
 
 ## 📌 Executive Summary
 This project provides an end-to-end macroeconomic analysis of India's Consumer Price Index (CPI) across Rural and Urban sectors from 2013 to 2023. By leveraging advanced Excel techniques, this case study uncovers the core drivers of retail inflation, measures the economic shock of the COVID-19 pandemic, and quantifies the cascading effects of global crude oil price fluctuations on domestic household budgets.
